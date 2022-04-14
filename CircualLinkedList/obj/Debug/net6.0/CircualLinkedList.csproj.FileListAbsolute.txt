@@ -1,0 +1,15 @@
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\bin\Debug\net6.0\CircualLinkedList.exe
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\bin\Debug\net6.0\CircualLinkedList.deps.json
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\bin\Debug\net6.0\CircualLinkedList.runtimeconfig.json
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\bin\Debug\net6.0\CircualLinkedList.dll
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\bin\Debug\net6.0\CircualLinkedList.pdb
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.csproj.AssemblyReference.cache
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.AssemblyInfoInputs.cache
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.AssemblyInfo.cs
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.dll
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\refint\CircualLinkedList.dll
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.pdb
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\CircualLinkedList.genruntimeconfig.cache
+C:\Users\Jakub.Milek\source\repos\CircualLinkedList\obj\Debug\net6.0\ref\CircualLinkedList.dll

@@ -1,0 +1,15 @@
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\bin\Debug\net6.0\LinkedList Book Reader.exe
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\bin\Debug\net6.0\LinkedList Book Reader.deps.json
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\bin\Debug\net6.0\LinkedList Book Reader.runtimeconfig.json
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\bin\Debug\net6.0\LinkedList Book Reader.dll
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\bin\Debug\net6.0\LinkedList Book Reader.pdb
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.csproj.AssemblyReference.cache
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.AssemblyInfoInputs.cache
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.AssemblyInfo.cs
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.dll
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\refint\LinkedList Book Reader.dll
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.pdb
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\LinkedList Book Reader.genruntimeconfig.cache
+C:\Users\Jakub.Milek\source\repos\LinkedList Book Reader\obj\Debug\net6.0\ref\LinkedList Book Reader.dll
