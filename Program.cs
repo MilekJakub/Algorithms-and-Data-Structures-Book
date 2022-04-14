@@ -25,5 +25,19 @@
         SortingAlgorithms.InsertionSort<string>(stringTab);
         Console.WriteLine(string.Join(", ", stringTab));
         #endregion
+
+        #region Bubble sort
+        //Bubble sort
+        Console.WriteLine("\nBubble sort.");
+        tab = new int[] { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
+        SortingAlgorithms.BubbleSort(tab);
+        Console.WriteLine(string.Join(", ", tab));
+
+        stringTab = new string[] { "z", "y", "x", "a", "c", "b", "e", "d", "f" };
+        SortingAlgorithms.OptimizedBubbleSort<string>(stringTab);
+        Console.WriteLine(string.Join(", ", stringTab));
+        #endregion
+
+
     }
 }

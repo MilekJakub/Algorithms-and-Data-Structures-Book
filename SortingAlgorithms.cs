@@ -78,4 +78,53 @@
             }
         }
     }
+    public static void BubbleSort(int[] arr)
+    {
+        for (int i = 0; i < arr.Length; i++)
+        {
+            for (int j = i + 1; j < arr.Length; j++)
+            {
+                if (arr[j] < arr[i])
+                {
+                    int temp = arr[j];
+                    arr[j] = arr[i];
+                    arr[i] = temp;
+                }
+            }
+        }
+    }
+    public static void BubbleSort<T>(T[] arr) where T : IComparable
+    {
+        for (int i = 0; i < arr.Length; i++)
+        {
+            for (int j = i + 1; j < arr.Length; j++)
+            {
+                if (arr[j].CompareTo(arr[i]) < 0)
+                {
+                    T temp = arr[j];
+                    arr[j] = arr[i];
+                    arr[i] = temp;
+                }
+            }
+        }
+    }
+    public static void OptimizedBubbleSort<T>(T[] arr) where T : IComparable
+    {
+        for (int i = 0; i < arr.Length; i++)
+        {
+            bool isAnyChange = false;
+            for (int j = i + 1; j < arr.Length; j++)
+            {
+                if (arr[j].CompareTo(arr[i]) < 0)
+                {
+                    T temp = arr[j];
+                    arr[j] = arr[i];
+                    arr[i] = temp;
+                    isAnyChange = true;
+                }
+            }
+            if (!isAnyChange)
+                break;
+        }
+    }
 }
