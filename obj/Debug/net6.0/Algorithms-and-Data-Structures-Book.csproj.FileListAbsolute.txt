@@ -1,0 +1,15 @@
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\bin\Debug\net6.0\Algorithms-and-Data-Structures-Book.exe
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\bin\Debug\net6.0\Algorithms-and-Data-Structures-Book.deps.json
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\bin\Debug\net6.0\Algorithms-and-Data-Structures-Book.runtimeconfig.json
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\bin\Debug\net6.0\Algorithms-and-Data-Structures-Book.dll
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\bin\Debug\net6.0\Algorithms-and-Data-Structures-Book.pdb
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.csproj.AssemblyReference.cache
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.AssemblyInfoInputs.cache
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.AssemblyInfo.cs
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.dll
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\refint\Algorithms-and-Data-Structures-Book.dll
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.pdb
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\Algorithms-and-Data-Structures-Book.genruntimeconfig.cache
+C:\Users\Jakub.Milek\Source\Repos\Algorithms-and-Data-Structures-Book\obj\Debug\net6.0\ref\Algorithms-and-Data-Structures-Book.dll
