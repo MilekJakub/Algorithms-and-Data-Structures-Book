@@ -1,4 +1,5 @@
-﻿public class Program
+﻿global using Algorithms_and_Data_Structures_Book;
+public class Program
 {
     static void Main()
     {
@@ -38,6 +39,40 @@
         Console.WriteLine(string.Join(", ", stringTab));
         #endregion
 
+        #region List sorting
+        //Sorting List<T> using LINQ
+        Console.WriteLine("\nSorted List<T> using LINQ.");
+        List<Person> people = new List<Person>();
 
+        people.Add(new Person { Name = "Marcin", Age = 29, Country = CountryEnum.PL });
+        people.Add(new Person { Name = "Sabina", Age = 25, Country = CountryEnum.DE });
+        people.Add(new Person { Name = "Anna", Age = 31, Country = CountryEnum.PL });
+        people.Add(new Person { Name = "Thomas", Age = 34, Country = CountryEnum.UK });
+        people.Add(new Person { Name = "Jakub", Age = 19, Country = CountryEnum.PL });
+
+        var result = people.OrderBy(p => p.Age).ToList();
+
+        foreach (var person in result)
+        {
+            Console.WriteLine(person);
+        }
+        #endregion
+
+        #region Using SortedList
+        //Using SortedList
+        Console.WriteLine("\nUsing SortedList [in this example the key value is age].");
+        SortedList<int, Person> peopleSortedList = new SortedList<int, Person>();
+
+        peopleSortedList.Add(29 ,new Person { Name = "Marcin", Age = 29, Country = CountryEnum.PL });
+        peopleSortedList.Add(25 ,new Person { Name = "Sabina", Age = 25, Country = CountryEnum.DE });
+        peopleSortedList.Add(31 ,new Person { Name = "Anna", Age = 31, Country = CountryEnum.PL });
+        peopleSortedList.Add(34 ,new Person { Name = "Thomas", Age = 34, Country = CountryEnum.UK });
+        peopleSortedList.Add(19 ,new Person { Name = "Jakub", Age = 19, Country = CountryEnum.PL });
+
+        foreach (var person in peopleSortedList)
+        {
+            Console.WriteLine(person);
+        }
+        #endregion
     }
 }

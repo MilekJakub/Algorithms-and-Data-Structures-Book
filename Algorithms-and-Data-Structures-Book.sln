@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting Algorithms", "Sorting Algorithms.csproj", "{ACB2F6B4-3D5B-4851-9893-84BFE89D0236}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList Book Reader", "..\LinkedList Book Reader\LinkedList Book Reader.csproj", "{BAEE0D97-D235-4804-8E31-B1279C4D057B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ACB2F6B4-3D5B-4851-9893-84BFE89D0236}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB2F6B4-3D5B-4851-9893-84BFE89D0236}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB2F6B4-3D5B-4851-9893-84BFE89D0236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEE0D97-D235-4804-8E31-B1279C4D057B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEE0D97-D235-4804-8E31-B1279C4D057B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEE0D97-D235-4804-8E31-B1279C4D057B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEE0D97-D235-4804-8E31-B1279C4D057B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
