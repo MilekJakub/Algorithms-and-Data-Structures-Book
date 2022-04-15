@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Stack Hanoi tower/1.0.0": {
+      "Stack Hanoi Tower/1.0.0": {
         "runtime": {
-          "Stack Hanoi tower.dll": {}
+          "Stack Hanoi Tower.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Stack Hanoi tower/1.0.0": {
+    "Stack Hanoi Tower/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
