@@ -59,7 +59,7 @@
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.DarkCyan;
-                    Console.WriteLine("\nThere's no more calls!");
+                    Console.WriteLine("\nThere are no more calls!");
                     Console.ResetColor();
                 }
             }

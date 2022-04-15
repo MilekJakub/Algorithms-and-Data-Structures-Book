@@ -29,7 +29,7 @@
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("There's no more incoming calls!");
+                    Console.WriteLine("There are no more incoming calls!");
                     Console.ResetColor();
                 }
                 Console.WriteLine();
