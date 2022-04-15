@@ -1,5 +1,5 @@
 ﻿#pragma warning disable
-namespace Algorithms_and_Data_Structures_Book
+namespace Sorting_Alghoritsm
 {
     public enum CountryEnum
     {

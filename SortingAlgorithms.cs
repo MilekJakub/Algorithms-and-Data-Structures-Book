@@ -50,6 +50,7 @@
             }
         }
     }
+
     public static void InsertionSort(int[] arr)
     {
         for (int i = 1; i < arr.Length; i++)
@@ -78,6 +79,7 @@
             }
         }
     }
+
     public static void BubbleSort(int[] arr)
     {
         for (int i = 0; i < arr.Length; i++)
@@ -126,5 +128,37 @@
             if (!isAnyChange)
                 break;
         }
+    }
+
+    public static void QuickSort<T> (T[] arr) where T : IComparable
+    {
+        QuickSort(arr, 0, arr.Length - 1);
+    }
+    public static void QuickSort<T> (T[] arr, int lower, int upper) where T : IComparable
+    {
+        if (lower < upper)
+        {
+            int p = Partition(arr, lower, upper);
+
+        }
+    }
+    public static int Partition<T> (T[] arr, int lower, int upper) where T : IComparable
+    {
+        int i = lower;
+        int j = upper;
+        var rand = new Random();
+        T pivot = arr[rand.Next(i, j)]; // Random pivot to improve performance
+        do
+        {
+            while (arr[i].CompareTo(pivot) < 0) { i++; }
+            while (arr[j].CompareTo(pivot) > 0) { j--; }
+            if (i >= j) { break; }
+
+            T temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+        }
+        while (i <= j);
+        return j;
     }
 }

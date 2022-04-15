@@ -6,6 +6,7 @@
     <RootNamespace>Algorithms_and_Data_Structures_Book</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Sorting_Alghoritsm.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
