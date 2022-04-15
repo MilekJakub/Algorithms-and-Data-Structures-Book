@@ -1,0 +1,15 @@
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\bin\Debug\net6.0\Hashset.exe
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\bin\Debug\net6.0\Hashset.deps.json
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\bin\Debug\net6.0\Hashset.runtimeconfig.json
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\bin\Debug\net6.0\Hashset.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\bin\Debug\net6.0\Hashset.pdb
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.csproj.AssemblyReference.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.AssemblyInfoInputs.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.AssemblyInfo.cs
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\refint\Hashset.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.pdb
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\Hashset.genruntimeconfig.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Hashset\obj\Debug\net6.0\ref\Hashset.dll

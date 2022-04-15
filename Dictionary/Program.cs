@@ -13,7 +13,7 @@
             do
             {
                 Console.Write("Enter employee ID: ");
-                string idString = Console.ReadLine();
+                string idString = Console.ReadLine()!;
                 isCorrect = int.TryParse(idString, out int id);
                 if (isCorrect)
                 {
