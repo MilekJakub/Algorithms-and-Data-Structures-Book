@@ -1,0 +1,15 @@
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\bin\Debug\net6.0\Queue Call Center.exe
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\bin\Debug\net6.0\Queue Call Center.deps.json
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\bin\Debug\net6.0\Queue Call Center.runtimeconfig.json
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\bin\Debug\net6.0\Queue Call Center.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\bin\Debug\net6.0\Queue Call Center.pdb
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.csproj.AssemblyReference.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.AssemblyInfoInputs.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.AssemblyInfo.cs
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\refint\Queue Call Center.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.pdb
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\Queue Call Center.genruntimeconfig.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Queue Call Center\obj\Debug\net6.0\ref\Queue Call Center.dll

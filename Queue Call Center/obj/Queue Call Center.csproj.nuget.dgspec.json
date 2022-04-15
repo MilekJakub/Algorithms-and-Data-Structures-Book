@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi Tower.csproj": {}
+    "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Queue Call Center\\Queue Call Center.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi Tower.csproj": {
+    "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Queue Call Center\\Queue Call Center.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi Tower.csproj",
-        "projectName": "Stack Hanoi Tower",
-        "projectPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi Tower.csproj",
+        "projectUniqueName": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Queue Call Center\\Queue Call Center.csproj",
+        "projectName": "Queue Call Center",
+        "projectPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Queue Call Center\\Queue Call Center.csproj",
         "packagesPath": "C:\\Users\\Jakub.Milek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\obj\\",
+        "outputPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Queue Call Center\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jakub.Milek\\AppData\\Roaming\\NuGet\\NuGet.Config",
