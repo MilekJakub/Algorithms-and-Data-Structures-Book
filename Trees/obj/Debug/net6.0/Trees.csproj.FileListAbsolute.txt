@@ -1,0 +1,15 @@
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\bin\Debug\net6.0\Trees.exe
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\bin\Debug\net6.0\Trees.deps.json
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\bin\Debug\net6.0\Trees.runtimeconfig.json
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\bin\Debug\net6.0\Trees.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\bin\Debug\net6.0\Trees.pdb
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.csproj.AssemblyReference.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.AssemblyInfoInputs.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.AssemblyInfo.cs
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\refint\Trees.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.pdb
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\Trees.genruntimeconfig.cache
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Trees\obj\Debug\net6.0\ref\Trees.dll

@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueue Call Center",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{0FF8CCF9-427C-48C3-BC81-09569064F614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashset", "Hashset\Hashset.csproj", "{16DFDBC3-1619-480A-94E6-4B72923B0C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashset", "Hashset\Hashset.csproj", "{16DFDBC3-1619-480A-94E6-4B72923B0C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{A646007B-2B83-4FD8-BAF9-A0B117BAD778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{16DFDBC3-1619-480A-94E6-4B72923B0C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16DFDBC3-1619-480A-94E6-4B72923B0C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16DFDBC3-1619-480A-94E6-4B72923B0C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A646007B-2B83-4FD8-BAF9-A0B117BAD778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A646007B-2B83-4FD8-BAF9-A0B117BAD778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A646007B-2B83-4FD8-BAF9-A0B117BAD778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A646007B-2B83-4FD8-BAF9-A0B117BAD778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
