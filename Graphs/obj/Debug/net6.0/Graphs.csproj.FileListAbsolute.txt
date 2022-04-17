@@ -13,3 +13,5 @@ C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Graphs\obj
 C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Graphs\obj\Debug\net6.0\Graphs.pdb
 C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Graphs\obj\Debug\net6.0\Graphs.genruntimeconfig.cache
 C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Graphs\obj\Debug\net6.0\ref\Graphs.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Graphs\bin\Debug\net6.0\PriorityQueue.dll
+C:\Users\Jakub.Milek\source\repos\Algorithms-and-Data-Structures-Book\Graphs\obj\Debug\net6.0\Graphs.csproj.CopyComplete

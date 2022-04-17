@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DImUWx9o+/77r3hqcQN66soxoeOYHSvBxMClFUw+sGwd8F4XIb4Vg+9aa7s8TaqHaP+Q9nh9GVEuJAgxq3bfzQ==",
+  "dgSpecHash": "hrozn/+OrZCLVTC/QmwL+AJZdOJOYGflZU5v8YSqTtGItGL9fNs5qSUvLmqSz1GT+iPUrezllbCLhdD0oxfBkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Graphs\\Graphs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakub.Milek\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi tower.csproj",
-      "projectName": "Stack Hanoi tower",
-      "projectPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi tower.csproj",
+      "projectUniqueName": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi Tower.csproj",
+      "projectName": "Stack Hanoi Tower",
+      "projectPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\Stack Hanoi Tower.csproj",
       "packagesPath": "C:\\Users\\Jakub.Milek\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Stack Hanoi tower\\obj\\",
       "projectStyle": "PackageReference",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
