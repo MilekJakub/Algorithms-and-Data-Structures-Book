@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿#pragma warning disable
 namespace Stack_Hanoi_tower
 {
     public class HanoiTower

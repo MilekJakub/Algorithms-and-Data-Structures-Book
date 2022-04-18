@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj": {}
+    "C:\\Users\\Jakub.Milek\\Desktop\\s\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj": {
+    "C:\\Users\\Jakub.Milek\\Desktop\\s\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\Jakub.Milek\\Desktop\\s\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj",
         "projectName": "Sorting Algorithms",
-        "projectPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj",
+        "projectPath": "C:\\Users\\Jakub.Milek\\Desktop\\s\\Algorithms-and-Data-Structures-Book\\Sorting Algorithms.csproj",
         "packagesPath": "C:\\Users\\Jakub.Milek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakub.Milek\\source\\repos\\Algorithms-and-Data-Structures-Book\\obj\\",
+        "outputPath": "C:\\Users\\Jakub.Milek\\Desktop\\s\\Algorithms-and-Data-Structures-Book\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jakub.Milek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "OptimizedPriorityQueue": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

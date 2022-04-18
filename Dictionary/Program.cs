@@ -1,4 +1,5 @@
-﻿namespace Dictionary
+﻿#pragma warning disable
+namespace Dictionary
 {
     public class Program
     {

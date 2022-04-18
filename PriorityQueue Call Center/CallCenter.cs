@@ -1,4 +1,4 @@
-﻿global using Priority_Queue;
+﻿using Priority_Queue;
 
 namespace PriorityQueue_Call_Center
 {

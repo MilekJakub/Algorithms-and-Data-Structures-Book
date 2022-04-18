@@ -7,6 +7,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <StartupObject>Sorting_Alghoritsm.Program</StartupObject>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OptimizedPriorityQueue" Version="5.1.0" />
+  </ItemGroup>
 
 </Project>
